@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcTCx8VIP0z_0y08YKRam3g?style=social)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/kshgr)
+![GitHub followers](https://img.shields.io/github/followers/kshgr?style=social)
+
 
 - 🔭 I’m currently working on "Creating a Discord Chatbot with Python using Hikari"
     - [GitHub](https://github.com/kshgr/Discord-Bot-with-Python-using-Hikari)
