@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/kshgr)
+
 - 🔭 I’m currently working on "Creating a Discord Chatbot with Python using Hikari"
     - [GitHub](https://github.com/kshgr/Discord-Bot-with-Python-using-Hikari)
     - [YouTube](https://youtube.com/playlist?list=PLpaMRtmEhzZah45Ie4j1QIQ91IHQsiB21&si=EMSIkaIECMiOmarE6JChQQ)
