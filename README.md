@@ -1,7 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on "Creating a Discord Chatbot with Python using Hikari"
-    - [Github](https://github.com/kshgr/Discord-Bot-with-Python-using-Hikari)
+    - [GitHub](https://github.com/kshgr/Discord-Bot-with-Python-using-Hikari)
     - [YouTube](https://youtube.com/playlist?list=PLpaMRtmEhzZah45Ie4j1QIQ91IHQsiB21&si=EMSIkaIECMiOmarE6JChQQ)
+
+- 💬 Ask me about Python, Blockchain and Crypto Eco Sphere.
+
+- ⚡ I will be starting a Python for Newbies course aimed towards complete beginners to make coding more accesible and enable people to create their own DIY Projects. 
+
 <!--
 **kshgr/kshgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
