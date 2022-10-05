@@ -12,9 +12,7 @@
 
 - ⚡ I will be starting a Python for Newbies course aimed towards complete beginners to make coding more accesible and enable people to create their own DIY Projects. 
 
-
-
-<a href="https://www.buymeacoffee.com/kshgr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kshgr&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/kshgr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kshgr&button_colour=1e621d&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 <!--
 **kshgr/kshgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
