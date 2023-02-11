@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcTCx8VIP0z_0y08YKRam3g?style=social)](https://www.youtube.com/channel/UCcTCx8VIP0z_0y08YKRam3g)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcTCx8VIP0z_0y08YKRam3g?style=social)](https://www.youtube.com/channel/UCcTCx8VIP0z_0y08YKRam3g?sub_confirmation=1)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/kshgr)
 ![GitHub followers](https://img.shields.io/github/followers/kshgr?style=social)
 
